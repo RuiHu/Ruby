@@ -1,4 +1,4 @@
-
+#This program get and parse the json data
 require 'net/http'
 require 'rubygems'
 require 'json'
