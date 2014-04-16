@@ -15,3 +15,5 @@ when "/"
 	result=number1.to_i/number2.to_i
 end
 puts "result:#{number1.chomp}#{op.chomp}#{number2.chomp}=#{result}"
+
+#Can be improved in its style.
