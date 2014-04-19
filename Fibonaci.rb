@@ -1,6 +1,7 @@
   #斐波那契数
   #直接用递推,把之前的结果放在数组里面
   def fibonacci step
+    #arr is the return value
     arr = [0,1]
 
     result = if step.to_i == 1
